@@ -1,9 +1,9 @@
-express
+express-demo-cli
 =======
 
 An opinionated lightning-fast approach to building robust web applications 
 
-[![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
+
 [![Version](https://img.shields.io/npm/v/express.svg)](https://npmjs.org/package/express)
 [![Downloads/week](https://img.shields.io/npm/dw/express.svg)](https://npmjs.org/package/express)
 [![License](https://img.shields.io/npm/l/express.svg)](https://github.com/alphaolomi/express/blob/master/package.json)
